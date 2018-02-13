@@ -1,0 +1,6 @@
+[submodule "Sub-Module2"]
+	path = Sub-Module2
+	url = https://github.com/248t2kobayashi/Sub-Module.git
+[submodule "Hoge"]
+	path = Hoge
+	url = https://github.com/248t2kobayashi/Sub-Module.git
